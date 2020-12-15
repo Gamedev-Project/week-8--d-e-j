@@ -42,7 +42,7 @@ In this section, we were asked to select a game from a given site and draw with 
 A link to the original game is  [HERE]( https://www.myabandonware.com/game/bubble-ghost-ey).  
 
 We selected this level:
-![](https://i.imgur.com/nsRHYqr.png)  
+![](https://i.imgur.com/dYJdmaI.png)  
 
 
 
