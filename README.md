@@ -39,7 +39,7 @@ In addition, when quarrying, the rock changes its shape to a more broken stone, 
 ### q_5
 In this section, we were asked to select a game from a given site and draw with tiles some stage from that game.
 A link to the original game is  [HERE]( https://www.myabandonware.com/game/bubble-ghost-ey).  
-link to our tiles is [here](https://github.com/Gamedev-Project/week-8--d-e-j/tree/main/Assets/Spritesheets)
+Link to our tiles is [here!](https://github.com/Gamedev-Project/week-8--d-e-j/tree/main/Assets/Spritesheets)
 
 We selected this level:
 ![](https://i.imgur.com/dYJdmaI.png) 
