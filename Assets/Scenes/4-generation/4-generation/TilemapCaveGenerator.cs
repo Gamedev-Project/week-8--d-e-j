@@ -20,8 +20,6 @@ public class TilemapCaveGenerator: MonoBehaviour {
     [SerializeField] TileBase floorTile = null;
     [Tooltip("The tile that represents a bush of trees (a passable block)")]
     [SerializeField] TileBase bushesTile = null;
-        [Tooltip("The tile that represents a forest (a passable block)")]
-    [SerializeField] TileBase forestTile = null;
 
     [Tooltip("The percent of walls in the initial random map")]
     [Range(0, 1)]
@@ -89,11 +87,5 @@ public class TilemapCaveGenerator: MonoBehaviour {
                 tilemap.SetTile(position, tile);
             }
         }
-    }
-        public void restart()
-    {
-        tilemap.ClearAllTiles();
-        gridSize = gridSize + (int)(gridSize * 0.1);
-        Start();
     }
 }
