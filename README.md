@@ -3,7 +3,6 @@
 
 ![](https://i.imgur.com/OZA30lH.gif)   
 
-## [Game link !](https://aviniv.itch.io/tilemap-path-finding)  
 The homework assigminet which we follows is [right here!](https://github.com/gamedev-at-ariel/gamedev-5781/blob/master/08-unity-tilemap-algorithms/homework.pdf)
 
 we've added a minimap on the top right of the screen to create a better user experience.
@@ -40,11 +39,16 @@ In addition, when quarrying, the rock changes its shape to a more broken stone, 
 ### q_5
 In this section, we were asked to select a game from a given site and draw with tiles some stage from that game.
 A link to the original game is  [HERE]( https://www.myabandonware.com/game/bubble-ghost-ey).  
+link to our tiles is [here](https://github.com/Gamedev-Project/week-8--d-e-j/tree/main/Assets/Spritesheets)
 
 We selected this level:
 ![](https://i.imgur.com/dYJdmaI.png) 
 
-link to the tiles is [here](https://github.com/Gamedev-Project/week-8--d-e-j/tree/main/Assets/Spritesheets)
+# [Game link !](https://aviniv.itch.io/tilemap-path-finding)  
+
+
+
+
 
 
 
