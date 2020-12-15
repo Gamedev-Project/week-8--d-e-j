@@ -3,7 +3,7 @@
 
 ![](https://i.imgur.com/OZA30lH.gif)   
 
-## [Game link !]()  
+## [Game link !](https://aviniv.itch.io/tilemap-path-finding)  
 The homework assigminet which we follows is [right here!](https://github.com/gamedev-at-ariel/gamedev-5781/blob/master/08-unity-tilemap-algorithms/homework.pdf)
 
 we've added a minimap on the top right of the screen to create a better user experience.
