@@ -9,7 +9,7 @@ The homework assigminet which we follows is [right here!](https://github.com/gam
 we've added a minimap on the top right of the screen to create a better user experience.
 This way the player will be able to see his entire screen and know where he should go according to the many mountains along the way.
 
-### Q4
+### q_4
 In this section, we were required to change the given game so that at the beginning of the stage when creating the automatic map, three types of tiles will be created and not just two. In addition, we were required that the map that would be created would make sense with similar tiles that are close to each other.  
 To do this we changed the code The code of:
 [CaveGenerator](https://github.com/Gamedev-Project/week-8--d-e-j/blob/main/Assets/Scenes/4-generation/4-generation/CaveGenerator.cs)   
@@ -24,7 +24,7 @@ In addition, in order to maintain the position of the TILES so that they will lo
 In the picture we can see that we also put in forest tiles,rocks and grass.
 
 
-### Q5
+### q_5
 In this section, we were asked to add to the main player the option to carve his way in TILES that he is unable to pass.
 To do this we created a script called [Carve ](https://github.com/Gamedev-Project/week-8--d-e-j/blob/main/Assets/Scenes/4-generation/4-generation/CaveGenerator.cs) .  
 In this sarcipt, the player knows on which tile he cam move, and when he can not move, he must press the "space" key continuously and while moving in the direction he wants to move.
@@ -37,12 +37,15 @@ In addition, when quarrying, the rock changes its shape to a more broken stone, 
 
 
 
-### Q10
+### q_5
 In this section, we were asked to select a game from a given site and draw with tiles some stage from that game.
 A link to the original game is  [HERE]( https://www.myabandonware.com/game/bubble-ghost-ey).  
 
 We selected this level:
-![](https://i.imgur.com/dYJdmaI.png)  
+![](https://i.imgur.com/dYJdmaI.png) 
+
+link to the tiles is [here](https://github.com/Gamedev-Project/week-8--d-e-j/tree/main/Assets/Spritesheets)
+
 
 
 
