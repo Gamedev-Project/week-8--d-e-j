@@ -25,7 +25,7 @@ In the picture we can see that we also put in forest tiles,rocks and grass.
 
 ### q_5
 In this section, we were asked to add to the main player the option to carve his way in TILES that he is unable to pass.
-To do this we created a script called [Carve ](https://github.com/Gamedev-Project/week-8--d-e-j/blob/main/Assets/Scenes/4-generation/4-generation/CaveGenerator.cs) .  
+To do this we created a script called [Carve ](https://github.com/Gamedev-Project/week-8--d-e-j/blob/main/Assets/Scenes/4-generation/4-generation/Carve.cs) .  
 In this sarcipt, the player knows on which tile he cam move, and when he can not move, he must press the "space" key continuously and while moving in the direction he wants to move.
 Displacement: One of the additional changes we have made is that the player will be able to move not only with the arrows but also with the W S A D keys to create a more comfortable gaming experience for some users.
 Quarrying: In the quarrying process we added a PARTICAL SYSTEM to create a real quarrying effect, so that small sparks are created with this help.
@@ -36,7 +36,7 @@ In addition, when quarrying, the rock changes its shape to a more broken stone, 
 
 
 
-### q_5
+### q_10
 In this section, we were asked to select a game from a given site and draw with tiles some stage from that game.
 A link to the original game is  [HERE]( https://www.myabandonware.com/game/bubble-ghost-ey).  
 Link to our tiles is [here!](https://github.com/Gamedev-Project/week-8--d-e-j/tree/main/Assets/Spritesheets)
